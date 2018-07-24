@@ -66,3 +66,6 @@ Ejecutar Run as > Maven install
 ```sh
 Ejecutar Run as > Spring boot app
 ```
+```sh
+La aplicación web estará dispobible en http://localhost:8080
+```
