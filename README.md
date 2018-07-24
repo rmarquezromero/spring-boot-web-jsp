@@ -34,7 +34,7 @@ Abre una consola de comandos de Windows y sitúate en la carpeta del war
 Ejecuta java -jar spring-boot-web-jsp-1.0.war
 ```
 ```sh
-La aplicación web estará dispobible en http://localhost:8080
+La aplicación web estará disponible en http://localhost:8080
 ```
 
 ### Guía de instalación en IDE STS y ejecución desde IDE.
@@ -67,5 +67,5 @@ Ejecutar Run as > Maven install
 Ejecutar Run as > Spring boot app
 ```
 ```sh
-La aplicación web estará dispobible en http://localhost:8080
+La aplicación web estará disponible en http://localhost:8080
 ```
